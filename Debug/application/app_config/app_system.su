@@ -1,0 +1,6 @@
+../application/app_config/app_system.c:22:9:app_system_configure	16	static
+../application/app_config/app_system.c:31:9:app_system_start	32	static
+../application/app_config/app_system.c:51:6:vApplicationIdleHook	4	static
+../application/app_config/app_system.c:58:6:sys_control_task	16	static
+../application/app_config/app_system.c:69:6:vApplicationGetIdleTaskMemory	24	static
+../application/app_config/app_system.c:91:6:vApplicationGetTimerTaskMemory	24	static
